@@ -1,3 +1,2 @@
-
-"FEED_VIEW_TITLE" = "My Feed";
-"FEED_VIEW_CONNECTION_ERROR" = "Couldn't connect to server";
+"FEED_VIEW_TITLE" = "Moja aktywność";
+"FEED_VIEW_CONNECTION_ERROR" = "Nie udało się połączyć z serwerem";
